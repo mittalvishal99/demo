@@ -12,9 +12,9 @@
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version><!--made more chamges more changes more-->
 	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Spring Boot</description><!--This is branch E Commit 1-->
 	<properties>
-		<java.version>17</java.version>
+		<java.version>17</java.version><!--This is branch E Commit 2-->
 	</properties>
 	<dependencies>
 		<dependency>
